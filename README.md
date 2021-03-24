@@ -1,3 +1,3 @@
-Aisit Mauro
+Nombre y apellido: Aisit Mauro
 
-9092/4
+Número de legajo: 9092/4
